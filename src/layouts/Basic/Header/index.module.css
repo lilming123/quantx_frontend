@@ -1,0 +1,14 @@
+.basic-header {
+    width: 100%;
+    position: fixed;
+    background: white;
+    overflow: hidden;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    padding: 0 24px;
+}
+
+.space-list {
+    color: #1a1a1a;
+}
